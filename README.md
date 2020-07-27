@@ -7,6 +7,8 @@ get to the mockups shown in desktop_view and mobile_view.
 
 Result should be one file which should be responsive using nothing but Boostrap.
 
+[Bootstrap 4 Docs](https://getbootstrap.com/docs/4.5/layout/grid/)
+
 # Getting Started
 Simply checkout, take a look at the mocks and start editing the boostrap_task.html file.
 
